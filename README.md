@@ -1,6 +1,6 @@
 # BIN (Blurry Video Frame Interpolation)
 [Project]() **|** [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Blurry_Video_Frame_Interpolation_CVPR_2020_paper.pdf)
-
+## Please provide a correct link for Project
 <!-- # PRF (Video Frame Interpolation and Enhancement via Pyramid Recurrent Framework)
 [Project]() **|** [Paper](To be published in TIP) -->
 
@@ -29,9 +29,13 @@ IEEE Conference on Computer Vision and Pattern Recognition, Seattle, CVPR 2020
 
 We propose a **B**lurry video frame **IN**terpolation method to reduce motion blur and up-convert frame rate simultaneously.
 We provide videos [here](https://www.youtube.com/watch?v=C_bL9YQJU1w).
+## Please open access for your video. Access is denied now.
+
 
 Futher more, in the journal version (accepted by TIP), we also extend our model for joint frame interpolation and deblurring with compression artifacts, joint frame interpolation and super-resolution.
 We provide videos [here](https://www.youtube.com/watch?v=IjRvaAe1HME&ab_channel=MAOLAO).
+## Please open access for your video. Access is denied now.
+
 
 ### Citation
 
